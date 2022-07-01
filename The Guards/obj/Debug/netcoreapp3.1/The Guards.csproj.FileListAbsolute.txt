@@ -1,0 +1,18 @@
+C:\Users\Asre Noovin\source\repos\The Guards\bin\Debug\netcoreapp3.1\The Guards.exe
+C:\Users\Asre Noovin\source\repos\The Guards\bin\Debug\netcoreapp3.1\The Guards.deps.json
+C:\Users\Asre Noovin\source\repos\The Guards\bin\Debug\netcoreapp3.1\The Guards.runtimeconfig.json
+C:\Users\Asre Noovin\source\repos\The Guards\bin\Debug\netcoreapp3.1\The Guards.runtimeconfig.dev.json
+C:\Users\Asre Noovin\source\repos\The Guards\bin\Debug\netcoreapp3.1\The Guards.dll
+C:\Users\Asre Noovin\source\repos\The Guards\bin\Debug\netcoreapp3.1\The Guards.pdb
+C:\Users\Asre Noovin\source\repos\The Guards\obj\Debug\netcoreapp3.1\The Guards.csproj.AssemblyReference.cache
+C:\Users\Asre Noovin\source\repos\The Guards\obj\Debug\netcoreapp3.1\The_Guards.frm_main.resources
+C:\Users\Asre Noovin\source\repos\The Guards\obj\Debug\netcoreapp3.1\The Guards.csproj.GenerateResource.cache
+C:\Users\Asre Noovin\source\repos\The Guards\obj\Debug\netcoreapp3.1\The Guards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asre Noovin\source\repos\The Guards\obj\Debug\netcoreapp3.1\The Guards.AssemblyInfoInputs.cache
+C:\Users\Asre Noovin\source\repos\The Guards\obj\Debug\netcoreapp3.1\The Guards.AssemblyInfo.cs
+C:\Users\Asre Noovin\source\repos\The Guards\obj\Debug\netcoreapp3.1\The Guards.csproj.CoreCompileInputs.cache
+C:\Users\Asre Noovin\source\repos\The Guards\obj\Debug\netcoreapp3.1\The Guards.dll
+C:\Users\Asre Noovin\source\repos\The Guards\obj\Debug\netcoreapp3.1\The Guards.pdb
+C:\Users\Asre Noovin\source\repos\The Guards\obj\Debug\netcoreapp3.1\The Guards.genruntimeconfig.cache
+C:\Users\Asre Noovin\source\repos\The Guards\obj\Debug\netcoreapp3.1\The_Guards.Properties.Resources.resources
+C:\Users\Asre Noovin\source\repos\The Guards\obj\Debug\netcoreapp3.1\The_Guards.frm_pauseMessage.resources
